@@ -22,33 +22,33 @@ Here we go!
 [Novice](Novice)
 ------
 
-- [ ] Immutable Data
-- [ ] Second-Order Functions
-- [ ] Constructing & Destructing
-- [ ] Function Composition
-- [ ] First-Class Functions & Lambdas
+- [x] Immutable Data
+- [x] Second-Order Functions
+- [x] Constructing & Destructing
+- [x] Function Composition
+- [x] First-Class Functions & Lambdas
 
 Advanced Beginner
 -----------------
 
-- [ ] Algebraic Data Types
-- [ ] Pattern Matching
-- [ ] Parametric Polymorphism
-- [ ] General Recursion
-- [ ] Type Classes, Instances, Laws
-- [ ] Lower-Order Abstractions (Equal, Semigroup, Monoid, Etc)
-- [ ] Referential Transparency & Totality
-- [ ] Higher-Order Functions
-- [ ] Partial-Application, Currying, Point-Free Style
+- [x] Algebraic Data Types
+- [x] Pattern Matching
+- [x] Parametric Polymorphism
+- [x] General Recursion
+- [x] Type Classes, Instances, Laws
+- [x] Lower-Order Abstractions (Equal, Semigroup, Monoid, Etc)
+- [x] Referential Transparency & Totality
+- [x] Higher-Order Functions
+- [x] Partial-Application, Currying, Point-Free Style
 
 Competent
 ---------
 
 - [ ] Generalized Algebraic Data Types
-- [ ] Higher-Kinded Types
+- [x] Higher-Kinded Types
 - [ ] Rank-N Types
-- [ ] Folds & Unfolds
-- [ ] Higher-Order Abstractions (Category, Functor, Monad)
+- [x] Folds & Unfolds
+- [x] Higher-Order Abstractions (Category, Functor, Monad)
 - [ ] Basic Options
 - [ ] Efficient Persistent Data Structures
 - [ ] Existential Types
@@ -61,7 +61,7 @@ Proficient
 - [ ] (Co)Recursion Schemes
 - [ ] Advanced Optics
 - [ ] Dual Abstractions (Comonad)
-- [ ] Monad Transformers
+- [x] Monad Transformers
 - [ ] Free Monads & Extensible Effects
 - [ ] Functional Architecture
 - [ ] Advanced Functors (Exponential, Profunctors, Contravariant)
